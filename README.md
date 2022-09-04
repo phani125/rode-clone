@@ -7,7 +7,7 @@
 
 ## Preview:
 
-![Desktop view](./rode.png)
+![Desktop view](./rode.png )
 
 ## Built with:
 
