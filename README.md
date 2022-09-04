@@ -19,4 +19,4 @@
 
 ## Time taken:
 
-- I took 12hrs to build from scratch working atleast 2hrs per day for a 6days and I took more time for making it reponsive.
+- I have taken 12hrs to build from scratch working atleast 2hrs per day for a 6days and I took more time for making it reponsive.
